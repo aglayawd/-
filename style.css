@@ -1,0 +1,57 @@
+body {
+    font-family: sans-serif;
+}
+header{
+    background-color:   rgb(255, 171, 216);
+    padding:30px;
+    border-radius: 20px;
+    display: flex;
+    justify-content:space-around;
+}
+header a{
+    text-decoration: none;
+    font-size: 23px;
+    color: rgb(248, 235, 211);
+    border: 8px double rgb(248, 235, 211);
+    border-radius: 20px;
+    padding: 4px;
+}
+header a:hover{
+    text-decoration: none;
+    font-size: 23px;
+    color: white;
+    border: 8px double white;
+    border-radius: 20px;
+    padding: 4px;
+}
+ul{
+    list-style: url("https://cdn131.picsart.com/319035770132211.png");
+
+}
+.link-text {
+    text-decoration: none;
+    font-size: 10;
+    color:rgb(255, 171, 216);
+    border:6px double rgb(255, 171, 216) ;
+    border-radius: 20px;
+    padding: 3px;
+}
+.link-text:hover {
+    text-decoration: none;
+    font-size: 10;
+    color:rgb(255, 218, 148);
+    border:6px double rgb(255, 171, 216) ;
+    border-radius: 20px;
+    padding: 3px; 
+}
+p {
+    margin: 25px;
+}
+ 
+
+
+
+
+
+
+
